@@ -1,0 +1,59 @@
+body {
+    background-color: lightgreen;
+    font-family: Arial;
+}
+
+.pagina {
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+    font-family: Georgia;
+}
+
+h2 {
+    color: darkgreen;
+    font-family: Verdana;
+}
+
+p {
+    color: gray;
+    font-size: 16px;
+}
+
+.contenido {
+    display: flex;
+}
+
+.informacion {
+    width: 70%;
+}
+
+.contaminacion-aire {
+    width: 30%;
+}
+
+.contaminacion-aire img {
+    width: 100%;
+}
+
+.tipos-contaminacion {
+    margin-top: 30px;
+}
+
+a {
+    color: blue;
+}
+
+.contaminacion-ambiental {
+    margin-top: 30px;
+}
+
+.contaminacion-ambiental img {
+    width: 100%;
+}
