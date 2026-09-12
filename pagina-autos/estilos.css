@@ -1,0 +1,26 @@
+
+body {
+    background-color: rgb(227, 255, 255);
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(110, 160, 175);
+}
+
+h2 {
+    color: rgb(64, 66, 68);
+}
+
+h3 {
+    color:  rgb(110, 160, 175);
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    border: 2px solid rgb(64, 66, 68);
+}
